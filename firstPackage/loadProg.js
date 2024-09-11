@@ -6,3 +6,5 @@ console.log(newitems)
 //npm i <packagename>
 //npm init -y
 //install loadash to run this 
+
+//npm i nodemon -D(this i for the Dev dependencies)
