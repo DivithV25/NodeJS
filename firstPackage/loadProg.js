@@ -8,3 +8,5 @@ console.log(newitems)
 //install loadash to run this 
 
 //npm i nodemon -D(this i for the Dev dependencies)
+
+//npm unistall <packagename>
