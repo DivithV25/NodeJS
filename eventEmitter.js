@@ -9,5 +9,6 @@ customEmitter.on('response',(name,id)=>{
 customEmitter.on('response',()=>{
     console.log('Other data recieved')
 })
-
+//this is event listening
 customEmitter.emit('response','divith',23)
+//this is event emiting
